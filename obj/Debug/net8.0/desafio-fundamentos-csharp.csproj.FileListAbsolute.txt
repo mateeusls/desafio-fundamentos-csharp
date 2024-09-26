@@ -1,0 +1,14 @@
+/Users/loopezxd/www/ignite/csharp/desafio-fundamentos-csharp/bin/Debug/net8.0/desafio-fundamentos-csharp
+/Users/loopezxd/www/ignite/csharp/desafio-fundamentos-csharp/bin/Debug/net8.0/desafio-fundamentos-csharp.deps.json
+/Users/loopezxd/www/ignite/csharp/desafio-fundamentos-csharp/bin/Debug/net8.0/desafio-fundamentos-csharp.runtimeconfig.json
+/Users/loopezxd/www/ignite/csharp/desafio-fundamentos-csharp/bin/Debug/net8.0/desafio-fundamentos-csharp.dll
+/Users/loopezxd/www/ignite/csharp/desafio-fundamentos-csharp/bin/Debug/net8.0/desafio-fundamentos-csharp.pdb
+/Users/loopezxd/www/ignite/csharp/desafio-fundamentos-csharp/obj/Debug/net8.0/desafio-fundamentos-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/loopezxd/www/ignite/csharp/desafio-fundamentos-csharp/obj/Debug/net8.0/desafio-fundamentos-csharp.AssemblyInfoInputs.cache
+/Users/loopezxd/www/ignite/csharp/desafio-fundamentos-csharp/obj/Debug/net8.0/desafio-fundamentos-csharp.AssemblyInfo.cs
+/Users/loopezxd/www/ignite/csharp/desafio-fundamentos-csharp/obj/Debug/net8.0/desafio-fundamentos-csharp.csproj.CoreCompileInputs.cache
+/Users/loopezxd/www/ignite/csharp/desafio-fundamentos-csharp/obj/Debug/net8.0/desafio-fundamentos-csharp.dll
+/Users/loopezxd/www/ignite/csharp/desafio-fundamentos-csharp/obj/Debug/net8.0/refint/desafio-fundamentos-csharp.dll
+/Users/loopezxd/www/ignite/csharp/desafio-fundamentos-csharp/obj/Debug/net8.0/desafio-fundamentos-csharp.pdb
+/Users/loopezxd/www/ignite/csharp/desafio-fundamentos-csharp/obj/Debug/net8.0/desafio-fundamentos-csharp.genruntimeconfig.cache
+/Users/loopezxd/www/ignite/csharp/desafio-fundamentos-csharp/obj/Debug/net8.0/ref/desafio-fundamentos-csharp.dll
